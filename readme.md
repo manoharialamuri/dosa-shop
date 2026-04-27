@@ -9,3 +9,9 @@ Dosa-Shop
 * dosa batter
 * oil added
 * erra karam added
+
+## Egg-dosa
+
+* dosa batter
+* 2 eggs
+* oil and karam
