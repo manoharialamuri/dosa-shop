@@ -16,3 +16,9 @@ Dosa-Shop
 * 1/2 egg
 * oil and karam
 
+## Paneer-dosa
+
+* dosa batter
+* paneer
+* ghee
+
