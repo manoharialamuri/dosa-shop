@@ -13,6 +13,6 @@ Dosa-Shop
 ## Egg-dosa
 
 * dosa batter
-* 1 egg
+* 1/2 egg
 * oil and karam
 
